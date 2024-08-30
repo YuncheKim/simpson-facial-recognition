@@ -1,6 +1,7 @@
 # Image Recognition for 'The simpsons' 
 ## Flow Map
 ![플로우1](https://github.com/user-attachments/assets/c4036467-e767-4019-b8bc-c917742d9ab8)
+Dataset학습 -> 
 
 ## Purpose
 애니메이션 '심슨가족'에 등장하는 캐릭터를 쉽게 찾기 위해 개발함
