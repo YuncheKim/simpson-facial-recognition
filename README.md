@@ -6,11 +6,14 @@ Image Recognition for 'The simpsons'
 애니메이션 '심슨가족'에 등장하는 캐릭터를 쉽게 찾기 위해 개발함
 
 ## Work
-데이터셋의 이미지 속 캐릭터를 학습하고 캐릭터를 찾거나 이름을 알려줌
+데이터 세트의 이미지 속 캐릭터를 학습하고 캐릭터를 찾거나 이름을 알려줌
 
-## Add
-두 개로 나뉘어져 있는 알고리즘을 하나로 합하기
-다른 데이터셋 적용하기
+## Improvment Way
+##### 1
+두 개의 알고리즘 단일화
+##### 2
+다른 데이터 세트에 적용
+ 
 
 ## 사용자료
 <https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset> 의 dataset을 사용함
