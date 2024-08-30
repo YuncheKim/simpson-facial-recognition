@@ -4,4 +4,4 @@
 
 
 ## 사용자료
-<https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset> 의 da
+<https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset> 의 dataset을 사용함
