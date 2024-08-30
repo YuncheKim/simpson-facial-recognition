@@ -13,5 +13,5 @@
 ##### 2  다른 데이터 세트에 적용
  
 
-## 사용자료
+## Resource of dataset
 <https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset> 의 dataset을 사용함
